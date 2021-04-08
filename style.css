@@ -1,0 +1,51 @@
+.menu{
+    display:flex;
+    justify-content:space-between ;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #feffde;
+}
+body{
+    background-color: whitesmoke;
+}
+
+.grid{
+display:flex;
+flex-wrap: wrap;
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+
+    border-radius: 2px;
+    background-color: white;
+
+    width: 280px;
+    font-family: fantasy;
+    margin-left: 5px;
+    margin-bottom: 5px;
+
+}
+.bodyimg {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU154hVOWiTndsdA7Ti44CJFX83QMmFLAPlg&usqp=CAU");
+    color:white;
+    text-align: center;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+body{
+    background-color: #bfcba8;
+}
